@@ -1,2 +1,2 @@
 # Aerospace Config
-A simple to set up and good tiling manager for MacOS.
+A simple to set up for good tiling manager on MacOS.
